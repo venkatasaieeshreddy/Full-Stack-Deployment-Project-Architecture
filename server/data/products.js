@@ -1,0 +1,68 @@
+const products = [
+  {
+    name: "Apple iPhone 16",
+    description: "Latest Apple smartphone with A18 chip.",
+    category: "Mobiles",
+    price: 89999,
+    stock: 20,
+    image: "/uploads/iphone16.jpg",
+  },
+  {
+    name: "Samsung Galaxy S25",
+    description: "Flagship Samsung smartphone.",
+    category: "Mobiles",
+    price: 84999,
+    stock: 18,
+    image: "/uploads/s25.jpg",
+  },
+  {
+    name: "OnePlus 13",
+    description: "Fast and smooth Android flagship.",
+    category: "Mobiles",
+    price: 69999,
+    stock: 25,
+    image: "/uploads/oneplus13.jpg",
+  },
+  {
+    name: "MacBook Air M4",
+    description: "Apple M4 powered ultrabook.",
+    category: "Laptops",
+    price: 129999,
+    stock: 10,
+    image: "/uploads/macbook.jpg",
+  },
+  {
+    name: "Dell XPS 15",
+    description: "Premium Windows laptop.",
+    category: "Laptops",
+    price: 149999,
+    stock: 8,
+    image: "/uploads/dellxps.jpg",
+  },
+  {
+    name: "Sony WH-1000XM5",
+    description: "Noise cancelling wireless headphones.",
+    category: "Accessories",
+    price: 29999,
+    stock: 30,
+    image: "/uploads/sony.jpg",
+  },
+  {
+    name: "Apple Watch Series 10",
+    description: "Premium smartwatch.",
+    category: "Wearables",
+    price: 49999,
+    stock: 15,
+    image: "/uploads/applewatch.jpg",
+  },
+  {
+    name: "AirPods Pro 2",
+    description: "Wireless earbuds with ANC.",
+    category: "Accessories",
+    price: 24999,
+    stock: 40,
+    image: "/uploads/airpods.jpg",
+  },
+];
+
+export default products;
