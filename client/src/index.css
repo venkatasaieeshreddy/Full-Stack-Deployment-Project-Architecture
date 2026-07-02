@@ -1,0 +1,20 @@
+body {
+  background: #f8f9fa;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+button {
+  border-radius: 8px !important;
+}
